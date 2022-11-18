@@ -498,7 +498,8 @@
 
     .about_title {
         width: 150px;
-        font-size: 22px
+        font-size: 22px;
+        font-weight: bold;
     }
 
     .tbl_col_1 {
